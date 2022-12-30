@@ -1,0 +1,8 @@
+#pneContainer{
+    -fx-border-color: #b6b6b6;
+    -fx-border-radius: 5px;
+}
+
+.line{
+    -fx-background-color: #b6b6b6;
+}
